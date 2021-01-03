@@ -16,7 +16,7 @@ username: Beomseok Ko
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Portfolio
 # email: Your E-Mail address for the email button.
-email: rhqjatjr0093@example.com
+email: rhqjatjr0093@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: 더욱 자세한 정보를 원하신다면 아래 메일과 Github를 활용해주세요.
+contact_description: 더욱 자세한 정보를 원하신다면 아래 메일과 Github를 통해 연락주세요.
 
 # GITHUB-METADATA
 # Set this to your forked repository
